@@ -1,0 +1,3 @@
+name:ecommerce_proj
+username:ecommerce_user
+password:ecommerce_Password123
